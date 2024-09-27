@@ -7,6 +7,7 @@
 <div align=center>
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff6e96,100:79dafa&height=160&section=header&text=Hi,%20I'm%20Minji%20Kim-nl-Web%20Front-end%20Developer&animation=fadeIn&fontSize=40&fontColor=282a36&fontAlignY=30" />
+<br/>
     <div align=center>
         <h3>
             끊임없이 성장하며 배우는 개발자, 김민지 입니다.
@@ -32,25 +33,30 @@
         이제는 <strong>재사용성</strong>과 <strong>유지보수성</strong>, 그리고 <strong>사용자 경험</strong>을 고려한 개발을 추구하고 있습니다. 
         </span>
     </div>
+
 <div align=center>
 	<h3>Tech Stack</h3>
-</div>
 <div align="center">
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white" />
+    	<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     <br/>
 	<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 	<img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge" />
+   	<img src="https://img.shields.io/badge/Vue.js-282a36?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
 	<br/>
+	<img src="https://img.shields.io/badge/zustand-282a36?style=for-the-badge&logoColor=white" />
 	<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Vanilla--extract-fb72a0?style=for-the-badge&logoColor=white"/>
 	<br/>
 	<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-	<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-	<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-	<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white" />
+	<img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" />
+	<br/>
+	<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
+	<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white" />
+	<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
+	<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" />
 </div>
 
 <br/>
