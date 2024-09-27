@@ -6,7 +6,7 @@
 
 <div align=center>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff6e96,100:79dafa&height=160&section=header&text=Hi,%20I'm%20Minji%20Kim-nl-Web%20Front-end%20Developer&animation=fadeIn&fontSize=40&fontAlignY=30" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff6e96,100:79dafa&height=160&section=header&text=Hi,%20I'm%20Minji%20Kim-nl-Web%20Front-end%20Developer&animation=fadeIn&fontColor=282a36&fontSize=40&fontAlignY=30" />
 <br/>
     <div align=center>
         <h3>
