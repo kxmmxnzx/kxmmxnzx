@@ -9,6 +9,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff6e96,100:79dafa&height=160&section=header&text=Hi,%20I'm%20Minji%20Kim-nl-Web%20Front-end%20Developer&animation=fadeIn&fontColor=282a36&fontSize=40&fontAlignY=30" />
 <br/>
     <div align=center>
+    	<br/>
         <h3>
             끊임없이 성장하며 배우는 개발자, 김민지 입니다.
         </h3>
@@ -32,6 +33,8 @@
         <span>
         이제는 <strong>재사용성</strong>과 <strong>유지보수성</strong>, 그리고 <strong>사용자 경험</strong>을 고려한 개발을 추구하고 있습니다. 
         </span>
+	<br/>
+ 	<br/>	
     </div>
 
 <div align=center>
